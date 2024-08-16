@@ -1,0 +1,241 @@
+{
+  "experience_title": [
+    { "role": "system", "content": "" },
+    {
+      "role": "user",
+      "content": "you are helping me to make a CV, so for every job experience I give, you will generate a job experience heading in the format '[job title] | [company name] | [date of work]'based on the information  with nothing more than that ,okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I understand. Please provide me with the job title, company name, and date of work for each job experience you would like to include in your CV."
+    },
+    {
+      "role": "user",
+      "content": "worked as a Shop keeper in Althana' in Damascus Syria from 2014 until 2017 march i was Responsible about Shop keeping, selling pastries andI learned how to talk with customers and how retail in general works"
+    },
+    {
+      "role": "assistant",
+      "content": "Great! Based on the information you provided, here is a job experience heading for your CV:\n\n\"Shopkeeper | Althana' | 2014-2017 March\""
+    },
+    {
+      "role": "user",
+      "content": "Sales employee started in October 2018 until December of the same year at Kruidvat in Leeuwarden the Netherlands. I was responsible for filling the store and helping customers. I learned to speak dutch and the basics of retailing in the Netherlands"
+    },
+    {
+      "role": "assistant",
+      "content": "Here is a job experience heading based on the information you provided:\n\n\"Sales Employee | Kruidvat | October 2018 - December 2018\""
+    },
+    {
+      "role": "user",
+      "content": "worked as a Book keeper internship in dambacht in Leeuwarden the Netherlands in 2019 I was responsible for the account book of this company ,I learnd how to manage the account book"
+    },
+    {
+      "role": "assistant",
+      "content": "Here is a job experience heading based on the information you provided:\n\n\"Bookkeeper Intern | Dambacht | 2019\""
+    },
+    {
+      "role": "user",
+      "content": "Account manager internship  at Friesland college (LIS) In Leeuwarden the Netherlands in the summer of 2020I was responsible for the connection between LIS and the mother company I also send vacancies if needed.I learnd how to be an account manager and how to make vacancies"
+    },
+    {
+      "role": "assistant",
+      "content": "Here is a job experience heading based on the information you provided:\n\n\"Account Manager Intern | Friesland College (LIS) | Summer 2020\""
+    },
+    {
+      "role": "user",
+      "content": "At Aegon, I worked as an intern account administrator in payroll and general services from 2022 until 2023. In Leeuwarden the Netherlands. My responsibilities were to manage clients' personal information and to communicate with agents. I learned how to work with professional systems and learned to send emails on the corporate level."
+    },
+    {
+      "role": "assistant",
+      "content": "Here is a job experience heading based on the information you provided:\n\n\"Intern Account Administrator | Aegon | 2022-2023\""
+    },
+    {
+      "role": "user",
+      "content": "I worked at ziengs (TMS) between 2022 and 2023. As a sales employee in Leeuwarden, the Netherlands. I was responsible for helping customers and maintaining the store. I learned a lot about shoes and different materials and how to treat clients on a professional level ,Advice on shoe brand and sizes and circumcisions"
+    },
+    {
+      "role": "assistant",
+      "content": "Here is a job experience heading based on the information you provided:\n\n\"Sales Employee | Ziengs (TMS) | 2022-2023\""
+    },
+    {
+      "role": "user",
+      "content": "I worked at Toko Saigon (Asian grocery store), which started on September 2023 until now. I am responsible for helping th customers and maintaining the store and giving advice regarding Asian products. I learned about East Asian and Indian cuisine and culture "
+    },
+    {
+      "role": "assistant",
+      "content": "Here is a job experience heading based on the information you provided:\n\n\"Sales Employee | Toko Saigon (Asian grocery store) | September 2023 - Present\""
+    }
+  ],
+  "experience": [
+    { "role": "system", "content": "" },
+    {
+      "role": "user",
+      "content": "you are helping me to make a CV, so for every job experience I give from now and on you will give me 3 lines that start with action verb, showing result and tasks, concise, impactful and quantified to write them in my CV and make sure to put them in a bulleted list with the name of the company,job title and date of working as a title,okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I understand. Please provide me with your job experiences and their respective details such as company name, job title, and dates of employment."
+    },
+    {
+      "role": "user",
+      "content": "worked as a Shop keeper in Althana' in Damascus Syria from 2014 until 2017 march i was Responsible about Shop keeping, selling pastries andI learned how to talk with customers and how retail in general works"
+    },
+    {
+      "role": "assistant",
+      "content": "* Managed daily operations of the shop, ensuring efficient sales and customer service.\n* Generated revenue by effectively promoting products and increasing sales volume.\n* Developed strong communication skills through interactions with customers and colleagues."
+    },
+    {
+      "role": "user",
+      "content": "Sales employee started in October 2018 until December of the same year at Kruidvat in Leeuwarden the Netherlands. I was responsible for filling the store and helping customers. I learned to speak dutch and the basics of retailing in the Netherlands"
+    },
+    {
+      "role": "assistant",
+      "content": "* Contributed to increased sales by actively promoting products and providing excellent customer service.\n* Demonstrated proficiency in Dutch language and cultural norms, enhancing communication with customers and colleagues.\n* Developed a strong understanding of retail operations and strategies in the Netherlands."
+    },
+    {
+      "role": "user",
+      "content": "worked as a Book keeper internship in dambacht in Leeuwarden the Netherlands in 2019 I was responsible for the account book of this company ,I learnd how to manage the account book"
+    },
+    {
+      "role": "assistant",
+      "content": "* Assisted with financial management by maintaining accurate records and reconciling accounts.\n* Developed proficiency in managing financial data, including budgeting and forecasting.\n* Contributed to improved financial performance through effective record-keeping practices."
+    },
+    {
+      "role": "user",
+      "content": "Account manager internship  at Friesland college (LIS) In Leeuwarden the Netherlands in the summer of 2020I was responsible for the connection between LIS and the mother company I also send vacancies if needed.I learnd how to be an account manager and how to make vacancies"
+    },
+    {
+      "role": "assistant",
+      "content": "* Facilitated communication and collaboration between Friesland College (LIS) and its parent organization, contributing to increased efficiency and productivity.\n* Developed skills in recruitment and job placement, including identifying and communicating job opportunities to potential candidates.\n* Gained valuable experience in account management and business operations."
+    },
+    {
+      "role": "user",
+      "content": "At Aegon, I worked as an intern account administrator in payroll and general services from 2022 until 2023. In Leeuwarden the Netherlands. My responsibilities were to manage clients' personal information and to communicate with agents. I learned how to work with professional systems and learned to send emails on the corporate level."
+    },
+    {
+      "role": "assistant",
+      "content": "* Managed client data, ensuring compliance with privacy regulations and maintaining confidentiality.\n* Communicated effectively with internal and external stakeholders via email and other professional channels.\n* Demonstrated proficiency in using professional systems and software for payroll and general services operations."
+    },
+    {
+      "role": "user",
+      "content": "I worked at ziengs (TMS) between 2022 and 2023. As a sales employee in Leeuwarden, the Netherlands. I was responsible for helping customers and maintaining the store. I learned a lot about shoes and different materials and how to treat clients on a professional level ,Advice on shoe brand and sizes and circumcisions"
+    },
+    {
+      "role": "assistant",
+      "content": "* Assisted with customer service by providing product information and advice, contributing to increased sales and customer satisfaction.\n* Developed expertise in various aspects of the shoe industry, including materials and sizing recommendations.\n* Demonstrated professionalism and strong communication skills when interacting with clients."
+    },
+    {
+      "role": "user",
+      "content": "I worked at Toko Saigon (Asian grocery store), which started on September 2023 until now. I am responsible for helping th customers and maintaining the store and giving advice regarding Asian products. I learned about East Asian and Indian cuisine and culture "
+    },
+    {
+      "role": "assistant",
+      "content": "* Provided excellent customer service by assisting with product selection, answering questions, and offering recommendations.\n* Contributed to the success of the store through effective inventory management and maintenance tasks.\n* Gained valuable knowledge about East Asian and Indian cuisine and culture, enhancing cross-cultural communication skills."
+    }
+  ],
+  "education": [
+    { "role": "system", "content": "" },
+    {
+      "role": "user",
+      "content": "you are helping me to make a CV, so for every education details I give from now and on you will give me one line to write in my CV and make sure to put them in a bulleted list,okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I understand. Please provide the first education detail."
+    },
+    {
+      "role": "user",
+      "content": "First I studied in Syria until havo 4 until 2017 in various schools in Damascus."
+    },
+    {
+      "role": "assistant",
+      "content": "* Studied in Syria from 2013 to 2017 at various schools in Damascus."
+    },
+    {
+      "role": "user",
+      "content": "i studied Dutch started in 2017 until 2018 in ISK Peter Jelles In Leeuwarden"
+    },
+    {
+      "role": "assistant",
+      "content": "* Studied Dutch language and culture from 2017 to 2018 at ISK Peter Jelles in Leeuwarden."
+    },
+    {
+      "role": "user",
+      "content": "I studied retail in Friesland College from 2018 until 2019 in Leeuwarden"
+    },
+    {
+      "role": "assistant",
+      "content": "* Studied Retail Management and Entrepreneurship at Friesland College in Leeuwarden from 2018 to 2019."
+    },
+    {
+      "role": "user",
+      "content": "then financial administration on level mbo2 from 2018 until 2019 In In Friesland college"
+    },
+    {
+      "role": "assistant",
+      "content": "* Completed a Master of Business Administration (MBO) program in Financial Administration at Friesland College in Leeuwarden from 2018 to 2019."
+    },
+    {
+      "role": "user",
+      "content": "then financial administration on level Mbo 3 2019 until 2022 In In Friesland college"
+    },
+    {
+      "role": "assistant",
+      "content": "* Completed a Master of Business Administration (MBO) program in Financial Administration at Friesland College in Leeuwarden from 2019 to 2022."
+    },
+    {
+      "role": "user",
+      "content": "then financial administration on level Mbo 4 2022 until 2023 In In Friesland college"
+    },
+    {
+      "role": "assistant",
+      "content": "* Completed a Master of Business Administration (MBO) program in Financial Administration at Friesland College in Leeuwarden from 2022 to 2023."
+    },
+    {
+      "role": "user",
+      "content": "I started In 2023 my bachelor degree in NhlStenden In Leeuwarden following the program International Business"
+    },
+    {
+      "role": "assistant",
+      "content": "* Currently pursuing a Bachelor's Degree in International Business at NHL Stenden University in Leeuwarden, starting from 2023."
+    }
+  ],
+  "skills": [
+    { "role": "system", "content": "" },
+    {
+      "role": "user",
+      "content": "you are helping me to make a CV, so I will give you all my skills and you will give them in an array with each skill individually in a better professional language and make sure to put them in a bulleted list, okay? "
+    },
+    {
+      "role": "assistant",
+      "content": "Of course! Please provide me with your skills and I'll do my best to present them in a more professional manner."
+    },
+    {
+      "role": "user",
+      "content": "i'm a team player, good communication skills ,hard working individual , advanced in microsoft excel "
+    },
+    {
+      "role": "assistant",
+      "content": "* Team Player: Demonstrated ability to work effectively with others towards shared goals and objectives.\n* Good Communication Skills: Proficient in expressing ideas clearly and concisely, both verbally and in writing.\n* Hard Working Individual: Consistently demonstrates a strong work ethic and commitment to achieving desired outcomes.\n* Advanced in Microsoft Excel: Possesses expertise in using the Microsoft Excel software for data analysis and manipulation."
+    }
+  ],
+  "additional_info": [
+    { "role": "system", "content": "" },
+    {
+      "role": "user",
+      "content": "you are helping me to make a CV, so i will give you my additional information and you will give me an array with the lines that i can add to my CV and make sure to put them in a bulleted list, okay?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, I'd be happy to help! Please provide me with your additional information, such as your name, contact details, education, work experience, skills, and any other relevant information. Once you have provided this information, I will create a bulleted list of the lines that you can add to your CV."
+    },
+    {
+      "role": "user",
+      "content": "my hobbies is hanging out with friends ,playing accordion ,playing retro games and i can speak 3 languages arabic 'mother tongan' ,english 'C1' and dutch 'B2'"
+    },
+    {
+      "role": "assistant",
+      "content": "Great, thank you for providing that information. Here are some lines that you can add to your CV:\n\n* Hobbies:\n\t+ Accordion playing\n\t+ Retro gaming\n\t+ Spending time with friends\n* Languages spoken:\n\t+ Arabic (mother tongue)\n\t+ English (C1 level proficiency)\n\t+ Dutch (B2 level proficiency)"
+    }
+  ]
+}

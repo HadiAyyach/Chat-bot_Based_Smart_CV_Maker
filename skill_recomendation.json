@@ -1,0 +1,20 @@
+{
+  "skill": [
+    "Communication skills",
+    "Knowledge of financial regulations",
+    "Analytical skills",
+    "Financial analysis",
+    "Attention to detail",
+    "Problem-solving abilities",
+    "Accounting knowledge",
+    "Risk management",
+    "Financial modeling",
+    "Mathematical proficiency"
+  ],
+  "score": [
+    0.9562997221946716, 0.9434797167778015, 0.9187589287757874,
+    0.8978523015975952, 0.8965354561805725, 0.8700862526893616,
+    0.8307073712348938, 0.7440528273582458, 0.6956078410148621,
+    0.6808212399482727
+  ]
+}

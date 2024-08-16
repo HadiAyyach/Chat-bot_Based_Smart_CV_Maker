@@ -1,0 +1,496 @@
+{
+  "education": [
+    [
+      {
+        "info": "degree",
+        "question": "what is the degree?",
+        "answer": "2017",
+        "score": 0.001256554271094501
+      },
+      {
+        "info": "major/field",
+        "question": "what is the major/field of study?",
+        "answer": "Syria",
+        "score": 0.03595456853508949
+      },
+      {
+        "info": "institution name",
+        "question": "what is the name of institution?",
+        "answer": "various schools",
+        "score": 0.16791069507598877
+      },
+      {
+        "info": "institution location",
+        "question": "where is the location of institution?",
+        "answer": "Damascus",
+        "score": 0.8010872006416321
+      },
+      {
+        "info": "attended date",
+        "question": "what is the dates attended?",
+        "answer": "havo 4 until 2017",
+        "score": 0.007938077673316002
+      }
+    ],
+    [
+      {
+        "info": "degree",
+        "question": "what is the degree?",
+        "answer": "ISK Peter Jelles",
+        "score": 0.027659522369503975
+      },
+      {
+        "info": "major/field",
+        "question": "what is the major/field of study?",
+        "answer": "Dutch",
+        "score": 0.31393668055534363
+      },
+      {
+        "info": "institution name",
+        "question": "what is the name of institution?",
+        "answer": "ISK Peter Jelles",
+        "score": 0.31390005350112915
+      },
+      {
+        "info": "institution location",
+        "question": "where is the location of institution?",
+        "answer": "ISK Peter Jelles In Leeuwarden",
+        "score": 0.14966003596782684
+      },
+      {
+        "info": "attended date",
+        "question": "what is the dates attended?",
+        "answer": "ISK Peter Jelles In Leeuwarden",
+        "score": 0.0003055089619010687
+      }
+    ],
+    [
+      {
+        "info": "degree",
+        "question": "what is the degree?",
+        "answer": "retail",
+        "score": 0.00019782422168646008
+      },
+      {
+        "info": "major/field",
+        "question": "what is the major/field of study?",
+        "answer": "retail",
+        "score": 0.5932901501655579
+      },
+      {
+        "info": "institution name",
+        "question": "what is the name of institution?",
+        "answer": "Friesland College",
+        "score": 0.06168530508875847
+      },
+      {
+        "info": "institution location",
+        "question": "where is the location of institution?",
+        "answer": "Leeuwarden",
+        "score": 0.014513131231069565
+      },
+      {
+        "info": "attended date",
+        "question": "what is the dates attended?",
+        "answer": "2018 until 2019",
+        "score": 0.014737380668520927
+      }
+    ],
+    [
+      {
+        "info": "degree",
+        "question": "what is the degree?",
+        "answer": "financial administration on level mbo2",
+        "score": 0.00035860633943229914
+      },
+      {
+        "info": "major/field",
+        "question": "what is the major/field of study?",
+        "answer": "financial administration",
+        "score": 0.0016291553620249033
+      },
+      {
+        "info": "institution name",
+        "question": "what is the name of institution?",
+        "answer": "Friesland college",
+        "score": 0.00016256076924037188
+      },
+      {
+        "info": "institution location",
+        "question": "where is the location of institution?",
+        "answer": "Friesland college",
+        "score": 0.00010610333265503868
+      },
+      {
+        "info": "attended date",
+        "question": "what is the dates attended?",
+        "answer": "2018 until 2019",
+        "score": 0.00022187524882610887
+      }
+    ],
+    [
+      {
+        "info": "degree",
+        "question": "what is the degree?",
+        "answer": "Mbo 3",
+        "score": 0.0009326505823992193
+      },
+      {
+        "info": "major/field",
+        "question": "what is the major/field of study?",
+        "answer": "financial administration",
+        "score": 0.0023011090233922005
+      },
+      {
+        "info": "institution name",
+        "question": "what is the name of institution?",
+        "answer": "Friesland college",
+        "score": 0.0008415032061748207
+      },
+      {
+        "info": "institution location",
+        "question": "where is the location of institution?",
+        "answer": "Friesland college",
+        "score": 0.0008922733832150698
+      },
+      {
+        "info": "attended date",
+        "question": "what is the dates attended?",
+        "answer": "2019 until 2022",
+        "score": 0.00038983594276942313
+      }
+    ],
+    [
+      {
+        "info": "degree",
+        "question": "what is the degree?",
+        "answer": "Mbo 4",
+        "score": 0.0004946393892168999
+      },
+      {
+        "info": "major/field",
+        "question": "what is the major/field of study?",
+        "answer": "financial administration",
+        "score": 0.0030339525546878576
+      },
+      {
+        "info": "institution name",
+        "question": "what is the name of institution?",
+        "answer": "Friesland college",
+        "score": 0.0008251168765127659
+      },
+      {
+        "info": "institution location",
+        "question": "where is the location of institution?",
+        "answer": "Friesland college",
+        "score": 0.0004756769340019673
+      },
+      {
+        "info": "attended date",
+        "question": "what is the dates attended?",
+        "answer": "2022 until 2023",
+        "score": 9.059321746462956e-5
+      }
+    ],
+    [
+      {
+        "info": "degree",
+        "question": "what is the degree?",
+        "answer": "bachelor",
+        "score": 0.22606195509433746
+      },
+      {
+        "info": "major/field",
+        "question": "what is the major/field of study?",
+        "answer": "International Business",
+        "score": 0.7945644855499268
+      },
+      {
+        "info": "institution name",
+        "question": "what is the name of institution?",
+        "answer": "NhlStenden In Leeuwarden",
+        "score": 0.12524637579917908
+      },
+      {
+        "info": "institution location",
+        "question": "where is the location of institution?",
+        "answer": "NhlStenden In Leeuwarden",
+        "score": 0.14996609091758728
+      },
+      {
+        "info": "attended date",
+        "question": "what is the dates attended?",
+        "answer": "NhlStenden In Leeuwarden",
+        "score": 8.790841093286872e-5
+      }
+    ]
+  ],
+  "experience": [
+    [
+      {
+        "info": "job title",
+        "question": "what is the job title?",
+        "answer": "Shop keeper",
+        "score": 0.7243465185165405
+      },
+      {
+        "info": "company name",
+        "question": "what is the company name?",
+        "answer": "Althana",
+        "score": 0.015534360893070698
+      },
+      {
+        "info": "location of employment",
+        "question": "where is the location of employment?",
+        "answer": "Althana' in Damascus Syria",
+        "score": 0.387117475271225
+      },
+      {
+        "info": "date of employment",
+        "question": "what is the date of employment?",
+        "answer": "2014 until 2017",
+        "score": 0.4928532838821411
+      },
+      {
+        "info": "Responsibilities",
+        "question": "what is the Responsibilities?",
+        "answer": "Shop keeping, selling pastries",
+        "score": 0.16657578945159912
+      },
+      {
+        "info": "Achievements and Accomplishments",
+        "question": "what is the Achievements and Accomplishments?",
+        "answer": "learned how to talk with customers and how retail in general works",
+        "score": 7.615875802002847e-5
+      }
+    ],
+    [
+      {
+        "info": "job title",
+        "question": "what is the job title?",
+        "answer": "Sales employee",
+        "score": 0.6084944605827332
+      },
+      {
+        "info": "company name",
+        "question": "what is the company name?",
+        "answer": "Kruidvat",
+        "score": 0.05319153890013695
+      },
+      {
+        "info": "location of employment",
+        "question": "where is the location of employment?",
+        "answer": "Kruidvat in Leeuwarden the Netherlands",
+        "score": 0.2891506552696228
+      },
+      {
+        "info": "date of employment",
+        "question": "what is the date of employment?",
+        "answer": "October 2018",
+        "score": 0.7143216133117676
+      },
+      {
+        "info": "Responsibilities",
+        "question": "what is the Responsibilities?",
+        "answer": "filling the store and helping customers",
+        "score": 0.5556685924530029
+      },
+      {
+        "info": "Achievements and Accomplishments",
+        "question": "what is the Achievements and Accomplishments?",
+        "answer": "I learned to speak dutch and the basics of retailing in the Netherlands",
+        "score": 4.8445559514220804e-5
+      }
+    ],
+    [
+      {
+        "info": "job title",
+        "question": "what is the job title?",
+        "answer": "Book keeper",
+        "score": 0.4368150532245636
+      },
+      {
+        "info": "company name",
+        "question": "what is the company name?",
+        "answer": "dambacht",
+        "score": 0.0006900646258145571
+      },
+      {
+        "info": "location of employment",
+        "question": "where is the location of employment?",
+        "answer": "dambacht in Leeuwarden the Netherlands",
+        "score": 0.2947286069393158
+      },
+      {
+        "info": "date of employment",
+        "question": "what is the date of employment?",
+        "answer": "2019",
+        "score": 0.5535135865211487
+      },
+      {
+        "info": "Responsibilities",
+        "question": "what is the Responsibilities?",
+        "answer": "responsible for the account book of this company",
+        "score": 0.014048932120203972
+      },
+      {
+        "info": "Achievements and Accomplishments",
+        "question": "what is the Achievements and Accomplishments?",
+        "answer": "Book keeper internship in dambacht in Leeuwarden the Netherlands",
+        "score": 3.1328586374002043e-6
+      }
+    ],
+    [
+      {
+        "info": "job title",
+        "question": "what is the job title?",
+        "answer": "Account manager",
+        "score": 0.5035509467124939
+      },
+      {
+        "info": "company name",
+        "question": "what is the company name?",
+        "answer": "mother company",
+        "score": 0.02433662675321102
+      },
+      {
+        "info": "location of employment",
+        "question": "where is the location of employment?",
+        "answer": "Leeuwarden the Netherlands",
+        "score": 0.336871474981308
+      },
+      {
+        "info": "date of employment",
+        "question": "what is the date of employment?",
+        "answer": "2020",
+        "score": 0.5495681166648865
+      },
+      {
+        "info": "Responsibilities",
+        "question": "what is the Responsibilities?",
+        "answer": "I was responsible for the connection between LIS and the mother company",
+        "score": 0.0588843896985054
+      },
+      {
+        "info": "Achievements and Accomplishments",
+        "question": "what is the Achievements and Accomplishments?",
+        "answer": "Account manager internship",
+        "score": 3.980874680564739e-5
+      }
+    ],
+    [
+      {
+        "info": "job title",
+        "question": "what is the job title?",
+        "answer": "intern account administrator",
+        "score": 0.580566942691803
+      },
+      {
+        "info": "company name",
+        "question": "what is the company name?",
+        "answer": "Aegon",
+        "score": 0.40086814761161804
+      },
+      {
+        "info": "location of employment",
+        "question": "where is the location of employment?",
+        "answer": "Leeuwarden the Netherlands",
+        "score": 0.7631908059120178
+      },
+      {
+        "info": "date of employment",
+        "question": "what is the date of employment?",
+        "answer": "2022 until 2023",
+        "score": 0.5740461945533752
+      },
+      {
+        "info": "Responsibilities",
+        "question": "what is the Responsibilities?",
+        "answer": "to manage clients' personal information and to communicate with agents",
+        "score": 0.456110417842865
+      },
+      {
+        "info": "Achievements and Accomplishments",
+        "question": "what is the Achievements and Accomplishments?",
+        "answer": "manage clients' personal information and to communicate with agents",
+        "score": 0.000248232448939234
+      }
+    ],
+    [
+      {
+        "info": "job title",
+        "question": "what is the job title?",
+        "answer": "sales employee",
+        "score": 0.759536623954773
+      },
+      {
+        "info": "company name",
+        "question": "what is the company name?",
+        "answer": "ziengs (TMS)",
+        "score": 0.30667388439178467
+      },
+      {
+        "info": "location of employment",
+        "question": "where is the location of employment?",
+        "answer": "Leeuwarden, the Netherlands",
+        "score": 0.7047261595726013
+      },
+      {
+        "info": "date of employment",
+        "question": "what is the date of employment?",
+        "answer": "between 2022 and 2023",
+        "score": 0.3997214734554291
+      },
+      {
+        "info": "Responsibilities",
+        "question": "what is the Responsibilities?",
+        "answer": "helping customers and maintaining the store",
+        "score": 0.7926989793777466
+      },
+      {
+        "info": "Achievements and Accomplishments",
+        "question": "what is the Achievements and Accomplishments?",
+        "answer": "Advice on shoe brand and sizes and circumcisions",
+        "score": 0.043149758130311966
+      }
+    ],
+    [
+      {
+        "info": "job title",
+        "question": "what is the job title?",
+        "answer": "responsible for helping th customers and maintaining the store and giving advice regarding Asian products",
+        "score": 0.05957939103245735
+      },
+      {
+        "info": "company name",
+        "question": "what is the company name?",
+        "answer": "Toko Saigon",
+        "score": 0.7363317608833313
+      },
+      {
+        "info": "location of employment",
+        "question": "where is the location of employment?",
+        "answer": "Toko Saigon",
+        "score": 0.8794982433319092
+      },
+      {
+        "info": "date of employment",
+        "question": "what is the date of employment?",
+        "answer": "September 2023",
+        "score": 0.8356881141662598
+      },
+      {
+        "info": "Responsibilities",
+        "question": "what is the Responsibilities?",
+        "answer": "helping th customers and maintaining the store and giving advice regarding Asian products",
+        "score": 0.5655492544174194
+      },
+      {
+        "info": "Achievements and Accomplishments",
+        "question": "what is the Achievements and Accomplishments?",
+        "answer": "I learned about East Asian and Indian cuisine and culture ",
+        "score": 0.00128627335652709
+      }
+    ]
+  ]
+}

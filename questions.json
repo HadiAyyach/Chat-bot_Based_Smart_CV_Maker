@@ -1,0 +1,30 @@
+{
+    "education": [  "what is the degree?", 
+                    "what is the major/field of study?", 
+                    "what is the name of institution?", 
+                    "where is the location of institution?", 
+                    "what is the dates attended?"
+                ],
+    "edu_info": [   "degree",
+                    "major/field",
+                    "institution name",
+                    "institution location",
+                    "attended date"
+                    ],
+
+    "experience":[  "what is the job title?", 
+                    "what is the company name?", 
+                    "where is the location of employment?", 
+                    "what is the date of employment?", 
+                    "what is the Responsibilities?", 
+                    "what is the Achievements and Accomplishments?"
+                ],
+    "exp_info" : [  "job title",
+                    "company name",
+                    "location of employment",
+                    "date of employment",
+                    "Responsibilities",
+                    "Achievements and Accomplishments"
+
+    ]
+}
